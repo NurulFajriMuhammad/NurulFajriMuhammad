@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**NurulFajriMuhammad/NurulFajriMuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img height="175px" src="https://github-readme-stats.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight" />
+      <br/><br/>
+      <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=NurulFajriMuhammad&theme=tokyonight" />
+    </td>
+    <td valign="top">
+      <img height="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
