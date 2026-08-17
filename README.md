@@ -10,7 +10,7 @@
 * 💻 Saat ini sedang berfokus pada pengembangan **SMART-AUDIT**, sebuah sistem manajemen audit terpusat berbasis web.
 * 📱 Berpengalaman dalam merancang dan mengembangkan aplikasi web (Laravel/React/Next.js) dan mobile (Flutter/Dart).
 * ⚙️ Memiliki ketertarikan pada arsitektur database relasional (PostgreSQL, MySQL, SQLite) serta analisis spasial (GIS) menggunakan QGIS.
-* 📫 Hubungi saya: [Isi dengan Email atau Link LinkedIn kamu]
+* 📫 Hubungi saya: https://www.linkedin.com/in/nurul-fajri-m/
 
 ---
 
@@ -42,7 +42,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NurulFajriMuhammad&theme=tokyonight&row=1&column=7&margin-w=15&v=1" alt="Trophies" />
 </p>
 
-<!-- Stats & Top Languages Table -->
+<!-- Stats & Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
