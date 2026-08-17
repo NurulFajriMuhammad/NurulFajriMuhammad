@@ -39,24 +39,19 @@
 
 <!-- Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NurulFajriMuhammad&theme=tokyonight&row=1&column=7&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=NurulFajriMuhammad&theme=tokyonight&row=1&column=7&margin-w=15&v=1" alt="Trophies" />
 </p>
 
 <!-- Stats & Top Languages Table -->
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img height="175px" src="https://github-readme-stats.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
-      <br/><br/>
-      <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=NurulFajriMuhammad&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-    <td valign="top">
-      <img height="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak (Milikmu yang lama) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurulFajriMuhammad&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
