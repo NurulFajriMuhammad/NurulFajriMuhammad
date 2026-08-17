@@ -43,9 +43,10 @@
 </p>
 
 <!-- Stats & Top Languages -->
+<!-- Stats & Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak (Milikmu yang lama) -->
