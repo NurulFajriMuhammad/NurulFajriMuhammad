@@ -67,35 +67,44 @@ A web-based internal audit management application developed to support audit wor
 
 ---
 
-### 📊 My GitHub Stats & Activity
+---
 
-<!-- GitHub Trophies -->
+<h3 align="center">📊 GitHub Statistics</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NurulFajriMuhammad&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
-<!-- GitHub Stats & Top Languages -->
+<h3 align="center">🔥 Contribution Streak</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=NurulFajriMuhammad&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurulFajriMuhammad&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<h3 align="center">📈 Contribution Activity</h3>
 
-<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurulFajriMuhammad&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Random Programming Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Programming Quote" />
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NurulFajriMuhammad&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
+
 
 <p align="center">
   <i>“Keep learning, keep building, and keep improving.”</i>
