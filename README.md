@@ -79,22 +79,20 @@ A web-based internal audit management application developed to support audit wor
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+### 📊 GitHub Analytics
 
 <p align="center">
   <img
-    width="48%"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=NurulFajriMuhammad&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
-    width="48%"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulFajriMuhammad&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
-
-<h3 align="center">🔥 Contribution Streak</h3>
 
 <p align="center">
   <img
@@ -103,12 +101,10 @@ A web-based internal audit management application developed to support audit wor
   />
 </p>
 
-<h3 align="center">📈 Contribution Activity</h3>
-
 <p align="center">
   <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NurulFajriMuhammad&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NurulFajriMuhammad&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
     alt="GitHub Activity Graph"
   />
 </p>
